@@ -1,4 +1,4 @@
-## Olá! 👋
+## Olá!
 
 ###### Sobre a Akemi
 Estudando JavaScript, HTML e CSS há um mês na EBAC, desenvolvendo projetos.
