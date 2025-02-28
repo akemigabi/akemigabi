@@ -9,7 +9,7 @@ Estudando JavaScript, HTML e CSS há um mês na EBAC, desenvolvendo projetos.
 
 ### Projetos
 
-
+[![Readme Card](httpsgithub-readme-stats.vercel.appapipinusername=akemigabi&repo=akemigabi&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
 
 ### Linguagens utilizadas
 
