@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**akemigabi/akemigabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Sobre a Akemi
+Estudando JavaScript, HTML e CSS há um mês na EBAC, desenvolvendo projetos.
 
-Here are some ideas to get you started:
+### Detalhes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.appapiusername=akemigabi&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+
+### Projetos
+
+
+
+### Linguagens utilizadas
+
+[![Top Langs](httpsgithub-readme-stats.vercel.appapitop-langsusername=akemigabi&layout=compact)](httpsgithub.comanuraghazragithub-readme-stats)
+
+
+### Contatos
+
+[img src='img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'](https://www.instagram.com/casta_nheiraa/)
