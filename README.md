@@ -11,6 +11,7 @@ Estudando JavaScript, HTML e CSS há um mês na EBAC, desenvolvendo projetos.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=akemigabi&repo=akemigabi.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=akemigabi&repo=Historia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=akemigabi&repo=ReservaDurmaBem&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
