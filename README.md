@@ -20,5 +20,5 @@ Estudando JavaScript, HTML e CSS há um mês na EBAC, desenvolvendo projetos.
 ### Contatos
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/casta_nheiraa/)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielacastanheirajs@gmail.com)
 
